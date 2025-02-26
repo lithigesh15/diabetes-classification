@@ -87,11 +87,6 @@ This project focuses on **diabetes classification** using **machine learning tec
 - **Feature selection improvements** using advanced techniques .
 - **Optimized hyperparameter tuning** for better accuracy.
 
-## 👥 Contributors
-- **Lithigesh P G** ([GitHub](https://github.com/lithigesh15)) 
-- **Nivas G**
-- **Praveen S**
-
 ---
 
 ### 🙌 Thank you for exploring our project! 🚀
