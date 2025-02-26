@@ -35,7 +35,7 @@ This project focuses on **diabetes classification** using **machine learning tec
 ## ⚙️ Implementation Steps
 ### **1. Data Preprocessing**
 - **Encoding:** Label encoding for categorical columns.
-- 🗑**Duplicate Handling:** Removing duplicate records.
+- **Duplicate Handling:** Removing duplicate records.
 - **Missing Values:** Imputing missing data.
 - **Class Imbalance:** Applying **SMOTE**.
 - **Feature Extraction & Normalization:** Selecting important features and scaling numerical values.
